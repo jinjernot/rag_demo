@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "text": "The capital of France is Paris.",
+        "category": "Geography",
+        "tags": ["capital", "France", "Europe"]
+    },
+    {
+        "id": "2",
+        "text": "The largest planet in our solar system is Jupiter.",
+        "category": "Astronomy",
+        "tags": ["planet", "Jupiter", "solar system"]
+    },
+    {
+        "id": "3",
+        "text": "Python is a popular programming language for machine learning.",
+        "category": "Technology",
+        "tags": ["Python", "programming", "machine learning"]
+    },
+    {
+        "id": "4",
+        "text": "Mount Everest is the highest mountain on Earth.",
+        "category": "Geography",
+        "tags": ["Mount Everest", "mountain", "Earth"]
+    },
+    {
+        "id": "5",
+        "text": "Water boils at 100 degrees Celsius under standard atmospheric pressure.",
+        "category": "Science",
+        "tags": ["water", "boiling point", "Celsius"]
+    },
+    {
+        "id": "6",
+        "text": "The Great Wall of China is one of the Seven Wonders of the World.",
+        "category": "History",
+        "tags": ["Great Wall", "China", "Seven Wonders"]
+    },
+    {
+        "id": "7",
+        "text": "Albert Einstein developed the theory of relativity.",
+        "category": "Science",
+        "tags": ["Albert Einstein", "relativity", "physics"]
+    },
+    {
+        "id": "8",
+        "text": "The Amazon River is the largest river by discharge volume of water.",
+        "category": "Geography",
+        "tags": ["Amazon River", "largest river", "South America"]
+    },
+    {
+        "id": "9",
+        "text": "The Mona Lisa was painted by Leonardo da Vinci.",
+        "category": "Art",
+        "tags": ["Mona Lisa", "Leonardo da Vinci", "Renaissance"]
+    },
+    {
+        "id": "10",
+        "text": "The human heart has four chambers.",
+        "category": "Biology",
+        "tags": ["heart", "chambers", "biology"]
+    },
+    {
+        "id": "11",
+        "text": "The Pythagorean theorem applies to right triangles.",
+        "category": "Mathematics",
+        "tags": ["Pythagorean theorem", "right triangle", "geometry"]
+    },
+    {
+        "id": "12",
+        "text": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+        "category": "Physics",
+        "tags": ["speed of light", "vacuum", "physics"]
+    },
+    {
+        "id": "13",
+        "text": "Shakespeare wrote the play 'Romeo and Juliet.'",
+        "category": "Literature",
+        "tags": ["Shakespeare", "Romeo and Juliet", "play"]
+    },
+    {
+        "id": "14",
+        "text": "The Pacific Ocean is the largest ocean on Earth.",
+        "category": "Geography",
+        "tags": ["Pacific Ocean", "largest ocean", "Earth"]
+    },
+    {
+        "id": "15",
+        "text": "The Taj Mahal is located in Agra, India.",
+        "category": "History",
+        "tags": ["Taj Mahal", "Agra", "India"]
+    }
+]
